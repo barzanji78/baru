@@ -1,4 +1,4 @@
-baseurl = "https://tes2.firebase.web.app"
+baseurl = "https://tes3.netlify.com"
 languageCode = "en-us"
 paginate = 6
 summaryLength = "10"
